@@ -1,6 +1,6 @@
 # Hello I am Jason 
 
-- 🔭 I'm a student at Business College Helsinki at **Full Stack Web Developer Programm.**
+- 🔭 I'm a student at Business College Helsinki in the **Full Stack Web Developer Programm.**
 
         - 👨‍💻 I use this account for my personal projects.
 

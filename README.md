@@ -1,10 +1,11 @@
 # Hello I am Jason 
 
-- 🔭 I'm a student at Helsinki Business College at **Full Stack Web Developer Programm.**
+- 🔭 I'm a student at Business College Helsinki at **Full Stack Web Developer Programm.**
 
+        - 👨‍💻 I use this account for my personal projects.
 
-        - 👨‍💻 I use this account for my **school projects.**
+        - 👨‍💻 I also use this account for my **school projects.**
 
-        - 🤝Please contribute your ideas and experiences to help me on this way. **Thanks in advance.**
+        - 🤝Please contribute your ideas and experiences I am sure it will help me out. 
 
         - 👨‍💻 All of my projects are available at [https://github.com/jasondansie]

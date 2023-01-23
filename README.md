@@ -8,9 +8,6 @@
 
         - 🤝Please contribute your ideas and experiences I am sure it will help me out. 
 
-        - 👨‍💻 All of my projects are available at [https://github.com/jasondansie]
-        
-       <div align="center">
 
 
 ## My Skill Set  

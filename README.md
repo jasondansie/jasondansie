@@ -67,7 +67,7 @@
 <div align="center">
 
 
-<a href="https://www.linkedin.com/in/jason-dansie-%F0%9F%91%BE-05729436/" target="_blank">
+<a href="https://www.linkedin.com/in/jason-dansie-05729436/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 

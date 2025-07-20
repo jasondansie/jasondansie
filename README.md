@@ -1,14 +1,14 @@
 # Hello I am Jason 
 
-- 🔭 Full Stack Developer based in Finland with over 8 years of experience in software development, including strong back-end skills (PHP, Node.js) and modern front-end development (React.js, JavaScript, HTML/CSS).
-
-I’ve worked across startups and mission-driven organizations, including Good Call Oy, Revival Ministries International, and currently Dealsign, where I contribute to scalable, user-focused web applications.
-
-Comfortable working in remote teams, delivering end-to-end solutions, and picking up new technologies quickly. I’m especially passionate about building efficient systems that are easy to maintain and scale.
-
-Tech Stack: React.js, Node.js, PHP, MySQL, MongoDB, C#, Unity, Git
-
-Always learning, always shipping. Let’s connect!
+        - 🔭 I'm a Full Stack Developer based in Espoo, Finland, with 8+ years of experience building web applications and backend systems. My tech stack includes React, Vue.js, Node.js, Express, PHP, and C#, and I’m comfortable working with both SQL and                 NoSQL databases like MySQL and MongoDB.
+        
+        I've contributed to a variety of companies—from startups to ministries—currently working part-time at Dealsign and full-time at Good Call Oy, where I build and maintain internal systems, automate operations, and support strategic digital growth.
+        
+        I thrive in Linux environments, work fluently with Docker, and enjoy collaborating remotely with cross-functional teams. My goal is always to build systems that are clean, scalable, and genuinely useful.
+        
+        ⚙️ Tech Stack: React · Vue.js · Node.js · Express · PHP · MySQL · MongoDB · Docker · C# · Unity · Linux · Git
+        
+        Always learning. Always shipping. Let’s connect!
 
         - 👨‍💻 I use this account for my personal projects.
 

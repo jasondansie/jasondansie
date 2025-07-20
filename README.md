@@ -1,10 +1,18 @@
 # Hello I am Jason 
 
-- 🔭 I'm a student at Business College Helsinki in the **Full Stack Web Developer Programm.**
+- 🔭 Full Stack Developer based in Finland with over 8 years of experience in software development, including strong back-end skills (PHP, Node.js) and modern front-end development (React.js, JavaScript, HTML/CSS).
+
+I’ve worked across startups and mission-driven organizations, including Good Call Oy, Revival Ministries International, and currently Dealsign, where I contribute to scalable, user-focused web applications.
+
+Comfortable working in remote teams, delivering end-to-end solutions, and picking up new technologies quickly. I’m especially passionate about building efficient systems that are easy to maintain and scale.
+
+Tech Stack: React.js, Node.js, PHP, MySQL, MongoDB, C#, Unity, Git
+
+Always learning, always shipping. Let’s connect!
 
         - 👨‍💻 I use this account for my personal projects.
 
-        - 👨‍💻 I also use this account for my **school projects.**
+        - 👨‍💻 I also used this account for my **school projects.**
 
         - 🤝Please contribute your ideas and experiences I am sure it will help me out. 
 
